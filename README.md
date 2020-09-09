@@ -105,8 +105,8 @@ And, of course emoji!
 - Syntax highlighting
     - you can also indent your code by four spaces
 - Task Lists
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+        - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+        - [x] list syntax required (any unordered or ordered list supported)
+        - [x] this is a complete item
+        - [ ] this is an incomplete item
     - if you include a task list in the first comment of an issue, you will get a progress indicator in you issue list
