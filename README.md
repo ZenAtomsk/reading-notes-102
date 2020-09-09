@@ -88,3 +88,6 @@ When you include a task list in the first comment of an Issue, you will see a he
 
 And, of course emoji!
 
+## Markdown syntax can be searched in search engines for shortcuts or cheet sheets.
+
+## GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
