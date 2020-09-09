@@ -42,7 +42,7 @@ Images: If you want to embed images, this is how you do it:
   
   -exclamation symbol[title] followed by the link in parenthases
   
-![Image of Yaktocat](image of an awesome cat thing)
+![Image of Yaktocat](image of an awesome cat thing) (this image is broken on purpose, the cat picture was huuuuuge)
 
 ### Headers and quotes: # Structured documents
 
