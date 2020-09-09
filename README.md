@@ -38,7 +38,7 @@ Alternatively,
   - Like this
   - And this
   
-  Images: If you want to embed images, this is how you do it:
+Images: If you want to embed images, this is how you do it:
   
   -exclamation symbol[title] followed by the link in parenthases
   
