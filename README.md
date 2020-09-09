@@ -42,13 +42,14 @@ Images: If you want to embed images, this is how you do it:
   
   -exclamation symbol[title] followed by the link in parenthases
   
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](image of an awesome cat thing)
 
 ### Headers and quotes: # Structured documents
 
 Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
 
 #### This is a fourth-tier heading
+##### This is a fifth-tier heading
 
 You can use one `#` all the way up to `######` six for different heading sizes.
 
@@ -156,5 +157,4 @@ You can add emoji to your writing by typing :EMOJICODE:.
 
 
 Also great document for more reading https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji
-(https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
-[Document](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
+[Awesome Document](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
