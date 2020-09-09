@@ -39,7 +39,9 @@ Alternatively,
   - And this
   
   Images: If you want to embed images, this is how you do it:
-    -exclamation symbol[title] followed by the link in parenthases
+  
+  -exclamation symbol[title] followed by the link in parenthases
+  
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Headers and quotes: # Structured documents
