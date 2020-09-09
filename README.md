@@ -2,12 +2,12 @@
 ## These are my reading notes
 
 
-## Growth mindset is living in the world of *possible*!
-- Leaning from failures
-- Remembering that nothing is easy at first
-- I don't know how....**yet**!
+## Growth mindset is accomplishing short term goals for long term progress!
+- Dive in and *just keep swimming*
+- Making an effort; a partially constructed bridge would be a nightmare
+- Using the community or class to inspire and learn
 
-### My name is Ricardo. I enjoy learning new things, playing sports   [GitHub](https://github.com/ZenAtomsk)
+### My ~~name~~ is Ricardo. I was sick of living in deserts, so my partner and I moved to the Seattle area knowing only each other here. I enjoy learning new things, playing sports and building things.   [GitHub](https://github.com/ZenAtomsk)
 
 
 # These are my reading notes
