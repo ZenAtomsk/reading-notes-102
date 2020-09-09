@@ -7,4 +7,4 @@
 - Remembering that nothing is easy at first
 - I don't know how....**yet**!
 
-## My name is Ricardo. I enjoy learning new things,  [GitHub](https://github.com/ZenAtomsk)
+## My name is Ricardo. I enjoy learning new things,   [GitHub](https://github.com/ZenAtomsk)
