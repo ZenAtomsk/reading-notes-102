@@ -18,9 +18,9 @@
 
 ## Examples: 
 
-## Text: It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+### Text: It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
-## Lists: Sometimes you want numbered lists:
+### Lists: Sometimes you want numbered lists:
 
 1. One
 2. Two
@@ -42,11 +42,11 @@ Alternatively,
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-## Headers and quotes: # Structured documents
+### Headers and quotes: # Structured documents
 
 Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
 
-### This is a third-tier heading
+#### This is a fourth-tier heading
 
 You can use one `#` all the way up to `######` six for different heading sizes.
 
@@ -55,7 +55,7 @@ If you'd like to quote someone, use the > character before the line:
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
 
-## Code: There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in backticks: `var example = true`.  If you've got a longer block of code, you can indent with four spaces:
+## Code: There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in backticks: ` var example = true `.  If you've got a longer block of code, you can indent with four spaces:
 
     if (isAwesome){
       return true
@@ -82,7 +82,7 @@ if (isAwesome){
 But I have to admit, tasks lists are my favorite:
 
 - [x] This is a complete item
-- [ ] This is an incomplete item
+- [ ]  This is an incomplete item
 
 When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
 
@@ -91,3 +91,22 @@ And, of course emoji!
 ## Markdown syntax can be searched in search engines for shortcuts or cheet sheets.
 
 ## GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
+
+## Types of syntax
+- headers
+- emphasis
+- lists (unordered/ordered)
+- images
+- links
+- blockquotes
+- inline code
+
+## GitHub uses its own version of Markdown syntax for additional features
+- Syntax highlighting
+    - you can also indent your code by four spaces
+- Task Lists
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+    - if you include a task list in the first comment of an issue, you will get a progress indicator in you issue list
