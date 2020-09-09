@@ -102,11 +102,57 @@ And, of course emoji!
 - inline code
 
 ## GitHub uses its own version of Markdown syntax for additional features
-- Syntax highlighting
-    - you can also indent your code by four spaces
-- Task Lists
-        - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-        - [x] list syntax required (any unordered or ordered list supported)
-        - [x] this is a complete item
-        - [ ] this is an incomplete item
-    - if you include a task list in the first comment of an issue, you will get a progress indicator in you issue list
+
+1. **Syntax highlighting**
+- you can also indent your code by four spaces
+
+2. **Task Lists**
+    - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+    - [x] list syntax required (any unordered or ordered list supported)
+    - [x] this is a complete item
+    - [ ] this is an incomplete item
+- **if you include a task list in the first comment of an issue, you will get a progress indicator in you issue list**3. 
+
+3. **Tables**
+- you can creat tables by assembling a list of words and dividing them with hypens - (for the first row), and then separating each column with a pipe | :
+
+**Year** | **Number of succesfull graduates**
+------------ | -------------
+1908 | 2
+2020 | 200
+
+4. **SHA references** (is a cryptographic hash function which takes an input and produces a 160-bit (20-byte) hash value known as a message digest – typically rendered as a hexadecimal number, 40 digits long)
+- any reference to a commit's SHA-1 hash will be automatically converted into a link to that commit on GitHub.
+
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+
+5. **Issue references within a repository**
+- Any number that refers to an Issue or Pull Request will be automatically converted into a link.
+
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
+
+6. **Username @mentions**
+- Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning the individual. You can also @mention teams within an organization.
+
+7. **Automatic linking for URLs** 
+- Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
+- you can also use [] to title your link, making it clickable with the link directly after using ()
+
+8. **Strikethrough**
+- any word wrapped with two tildes ~~experience~~ will be crossed out
+- ~~any word wrapped with two tildes will be crossed out~~
+
+9. **Emoji**
+- Github supports emoji.
+You can add emoji to your writing by typing :EMOJICODE:.
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+
+
+Also great document for more reading https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji
+(https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
+[Document](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
