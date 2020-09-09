@@ -159,5 +159,3 @@ You can add emoji to your writing by typing :EMOJICODE:.
 Also great document for more reading https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji
 [Awesome Document](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
 
-## hello
->line item
