@@ -11,7 +11,7 @@ The command line typically presents you with a prompt. As you type, it will be d
 Most of the time you will be issuing commands. Here is an example:
 
 | terminal |
-| --- |
+| --- | --- |
 | 1. | user@bash: ls -1 /home/ryan |
 | 2. | total 3 |
 | 3. | drwxr-xr-x 2 ryan users 4096 Mar 23 13:34 bin |
