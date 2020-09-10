@@ -10,14 +10,14 @@ and feedback will be given to you similarly as text.
 The command line typically presents you with a prompt. As you type, it will be displayed after the prompt.
 Most of the time you will be issuing commands. Here is an example:
 
-|terminal                                                    |
-|-----           | -----                                     |
-|1. | user@bash: ls -1 /home/ryan                            |
-|2. | total 3 |
-|3. | drwxr-xr-x 2 ryan users 4096 Mar 23 13:34 bin          |
-|4. | drwxr-xr-x 18 ryan users 4096 Feb 17 09:12 Documents   |
-|5. | drwxr-xr-x 2 ryan users 4096 May 05 17:25 public_html  |
-|6. | user@bash:                                             |
+| terminal | Example |
+| ----- | ----- |
+| 1. | user@bash: ls -1 /home/ryan |
+| 2. | total 3 |
+| 3. | drwxr-xr-x 2 ryan users 4096 Mar 23 13:34 bin |
+| 4. | drwxr-xr-x 18 ryan users 4096 Feb 17 09:12 Documents |
+| 5. | drwxr-xr-x 2 ryan users 4096 May 05 17:25 public_html |
+| 6. | user@bash: |
 
 - **Line 1** presents us with a prompt ( user@bash ). After that we entered a command ( ls ). Typically a command is always the first 
 thing you type. After that we have what are referred to as command line arguments ( -l /home/ryan ). Important to note, these are 
