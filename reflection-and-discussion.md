@@ -1,5 +1,21 @@
 # reading notes
 
+## Important commands in order
+
+>git add README.md (file name)
+
+>git status
+
+>git commit -m "message"
+
+>git status
+
+>git push origin master
+
+>github username
+
+>github password
+
 ## Version Control
 
 Version control is a system that allows you to revisit various versions of a file or set of files by recording changes.
@@ -94,4 +110,9 @@ Git can be installed in three ways:
 
 ### Graphical Clients
 
-Git includes inherent Graphical
+Git includes inherent Graphical User Interface (GUI) tools. However, users can also utilize third-party tools 
+created for particular platforms.
+
+GUI Clients
+
+You can access a variety of GUI clients for Mac, Windows, and Linux via the following link:
