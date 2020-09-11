@@ -11,4 +11,9 @@
 
 
 ## Table of Contents
-- [first reading notes](first-reading-notes.md)
+---
+-  [First Reading Notes](first-reading-notes.md) 
+
+- [The Coder's Computer](the-coders-computer.md)
+
+- [Reflection and discussion](reflection-and-discussion.md)
