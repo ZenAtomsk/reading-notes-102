@@ -16,19 +16,19 @@
 
 >github password
 
-## Version Control
+## **Version Control**
 
 Version control is a system that allows you to revisit various versions of a file or set of files by recording changes.
 Through version control, one can revert a file or project to a previous version, track midifications and modifying individuals,
 and compare changes.
 By using a VCS, mistakes with files can easily be rectified.
 
-### Local version control
+### **Local version control**
 
 Many years ago, programmers created Local Version Control systems. 
 A Local VCS entails one database on your hard disk that stores changes to files.
 
-### Centralized Version Control
+### **Centralized Version Control**
 
 The need for collaboration within a developer team on a single file or set of files led 
 to the advent of the Centralized Version Control System (CVCS). This system entails a 
@@ -37,7 +37,7 @@ This streamlined the collaboration process (by eliminating the need to involve a
 allowed programmers to have more knowledge of team members’ activities with certain files, and gave 
 administrators much more control over divvying up revision privileges.
 
-### Distributed Version Control
+### **Distributed Version Control**
 
 A Distributed Version Control systems (DVCS) addresses the major vulnerability of the CVS: the server as a
 single point of failure. If a CVS goes down, collaborators cannot work with each other on a file or save
@@ -51,7 +51,7 @@ Because the DVCS allows for multiple mirrored repositories, programmers working 
 collaborate with each other in various ways to complete a joint project, which enables the use of various
 simultaneous workflows.
 
-### So, what is Git?
+### **So, what is Git?**
 
 * **Snapshots**
   - Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of you project
@@ -85,7 +85,7 @@ simultaneous workflows.
   
 ![States Process](states.png)
   
-## History of Git
+## **History of Git**
 
 Git traces its roots to the open source software project Linux kernel. Developers of this project began
 using a DVCS called BitKeeper in 2002. In 2005, many of these developers stopped using this DVCS due to
@@ -96,23 +96,52 @@ BitKeeper, which was also fast, Git allowed for non-linear development via multi
 support large projects, possessed strong mechanisms preventing corruption, and had a simple design.
 Since its inception in 2005, Git has become one of the most utilized Version Control Systems in the world.
 
-## Getting Started
+## **Getting Started**
 
-### Download Git
+### **Download Git**
 
 In order to use Git, your computer must have it available. If you already have Git on you computer,
 you should make sure you have the latest version.
 
-Git can be installed in three ways:
+*Git can be installed in three ways:*
   1. Install as a package
   2. Install via another installer
   3. Download and compile the source code.
 
-### Graphical Clients
+### **Graphical Clients**
 
 Git includes inherent Graphical User Interface (GUI) tools. However, users can also utilize third-party tools 
 created for particular platforms.
 
-GUI Clients
+*GUI Clients*
 
-You can access a variety of GUI clients for Mac, Windows, and Linux via the following link:
+You can access a variety of GUI clients for Mac, Windows, and Linux [here](https://git-scm.com/downloads/guis).
+
+### **Initial customization**
+
+After making sure Git has been installed, you should perform some customization steps, which should only need to be completed once on any machine. 
+To change settings, you can repeat these steps.
+
+**Configuration of Variables**
+
+An inherent Git tool called git config allows the setting of configuration variables that control aspects of Git’s operation and look.
+
+**Identity Setting**
+
+After installing Git, users should immediately set the user name and email address, which will be used for every Git commit.
+
+Type the following into Terminal or Command Line:
+
+> git config --global user.name "username"
+
+> git config --global user.email "email@email.com"
+
+To confirm that you have the correct settings, enter the following command:
+
+> git config --global user.name (should retrun username)
+
+> git config --global user.email (should return email@email.com) 
+
+  - by using the -global option, these Git settings apply to anything on the system. To use different identity settings for a specific project, 
+  change the working directory to the desired local to the desired local Git repository and repeat the steps above without using -global
+
