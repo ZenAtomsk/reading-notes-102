@@ -83,7 +83,7 @@ simultaneous workflows.
   *Staged*
   Flagged a file's changed version to be commited in the net snapshot
   
-![States Process](states.png)
+![States Process](images/states.png)
   
 ## **History of Git**
 

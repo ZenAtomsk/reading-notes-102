@@ -1,8 +1,12 @@
-HTML / Markup
-Semantics
-Wireframe
-Personas
-Meta
+## Vocabulary
+
+- **HTML / Markup** - HyperText Markup Language is use to allow software such as web browsers and search engines
+to understand the relative meaning and structure of the content in a web page and present it for human consumption.
+
+- **Semantics**
+- **Wireframe** - A wireframe is a simple
+- **Personas** - 
+- **Meta** - 
 Content
 Element
 Tag
@@ -26,7 +30,7 @@ which is available free from Goodle.
 on the page (such as the elements that form a header, an ariticle, fotter or sidebar). Authors 
 used class or id attributes to indicate the role of the < div > element in the structure of the page.
 
-![traditional html layout](traditional-html-layout.jpg)
+![traditional html layout](images/traditional-html-layout.jpg)
 
 *Common layout*
 
@@ -46,7 +50,7 @@ elements and use the class or id attributesto indicate the purpose of that part 
 these elements indicate the kind of content you will find in them. They are still subject to change, but 
 that has not stopped many web page authors from using them already.
 
-![New HTML layout](new-html5-layout.jpg)
+![New HTML layout](images/new-html5-layout.jpg)
 
 *New HTML5 Layout*
 
