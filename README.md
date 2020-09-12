@@ -17,3 +17,5 @@
 - [The Coder's Computer](the-coders-computer.md)
 
 - [Reflection and discussion](reflection-and-discussion.md)
+
+- [Html notes](html-notes.md)
