@@ -1,13 +1,16 @@
-New Vocabulary
-CSS
-RGB
-HSL
-Hex codes
-Layout
-Rule
-Selector
-Property & value
-Curly braces
+## New Vocabulary
+
+- **CSS** *Cascading Style Sheets* - a simple mechanism for adding style (e.g., fonts, colors, spacing) to Web documents.
+- **RGB** - Values for red, green, and blue are expressed as numbers between 0 and 255
+- **HSL** - *Hue/Saturation/Lightness* - alternative way to specify colors using Hue represented as a color circle where the angle represents the color. Saturation is the amount of gray in a color. Saturation is represented as a percentage. 100%  is full saturation and 0% is a shade of gray. Lightness is the amount of white or black in a color. Lightness is represented as a percentage (Sometimes referred to as *luminosity*).
+- **Hex codes** - Hex values represent values for red, green, and blue in hexadecimal code.
+- **Layout** - 
+- **Rule** - If the two selectors are identical, the latter of the two will take precedence.
+- **Declarations** - indicate how the elements referred to in the selector should be styled. Declarations are split into two parts (a property and a value), and are separated by a colon
+- **Selector** - indicate which element the rule applies to. The same rule can apply to more than one element if you separate the element names with commas.
+- **Property** - indicate the aspects of the element you want to change. For example, color, font, width, height and border. 
+- **Values** - specify the settings you want to use for the chosen properties. For example, if you want to specify a color property then the value is the color you want the text in these elements to be
+- **Curly braces** - 
 
 classes have periods .classname
 IDs have numbers #idname
