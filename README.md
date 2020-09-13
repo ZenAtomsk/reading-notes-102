@@ -19,3 +19,7 @@
 - [Reflection and discussion](reflection-and-discussion.md)
 
 - [Html notes](html-notes.md)
+
+- [Design Web Pages with CSS](css-style.md)
+
+- []
