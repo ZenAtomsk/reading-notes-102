@@ -1,5 +1,4 @@
 <nav>
-
 - [Growth Mindset](https://zenatomsk.github.io/reading-notes/)
 
 - [Learning Markdown](https://zenatomsk.github.io/reading-notes/01-learning-markdown.html) 
@@ -17,7 +16,6 @@
 - [Computer architecture and logic](https://zenatomsk.github.io/reading-notes/06b-computer-architecture-and-logic.html)
 
 - [You need coffee for all this Java..Script](https://zenatomsk.github.io/reading-notes/07-programming-with-js.html)
-
 </nav>
 
 # These are my reading notes
