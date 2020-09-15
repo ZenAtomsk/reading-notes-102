@@ -25,3 +25,5 @@
 - [Let's make it do stuff and things](06a-dynamic-with-javascript.md)
 
 - [Computer architecture and logic](06b-computer-architecture-and-logic.md)
+
+- [You need coffee for all this Java..Script](07-programming-with-js.md)

@@ -14,7 +14,7 @@
 
 - [Computer architecture and logic](06b-computer-architecture-and-logic.md)
 
-- [Not sure of the name for this yet](07-programming-with-js.md)
+- [You need coffee for all this Java..Script](07-programming-with-js.md)
 
 </nav>
 
