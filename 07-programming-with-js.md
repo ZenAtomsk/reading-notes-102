@@ -76,10 +76,10 @@
 *Being able to change the conten of an HTML page while it is loaded in the browser is very powerful.*
 
 >The following examples rely on the ability to:
-    > - **Access** the content of the page
-    > - **Modify** the content of the page
-    > - **Program** rules or instructions the browser can follow
-    > - **React** to events triggered by the user or browser
+> - **Access** the content of the page
+> - **Modify** the content of the page
+> - **Program** rules or instructions the browser can follow
+> - **React** to events triggered by the user or browser
     
 1. **Slideshows**
     - **React**: Script triggered when the page loads
