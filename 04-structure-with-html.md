@@ -1,21 +1,22 @@
 <nav>
 
--  [Learning Markdown](01-learning-markdown.md) 
+- [Growth Mindset](README.html)
 
-- [The Coder's Computer](02-the-coders-computer.md)
+- [Learning Markdown](01-learning-markdown.html) 
 
-- [Terminal revision and the cloud....or the matrix](03-revisions-and-the-cloud.md)
+- [The Coder's Computer](02-the-coders-computer.html)
 
-- [Html-the structure](04-structure-with-html.md)
+- [Terminal revision and the cloud....or the matrix](03-revisions-and-the-cloud.html)
 
-- [Where do you want it and what color?](05-design-with-css.md)
+- [Html-the structure](04-structure-with-html.html)
 
-- [Let's make it do stuff and things](06a-dynamic-with-javascript.md)
+- [Where do you want it and what color?](05-design-with-css.html)
 
-- [Computer architecture and logic](06b-computer-architecture-and-logic.md)
+- [Let's make it do stuff and things](06a-dynamic-with-javascript.html)
 
-- [You need coffee for all this Java..Script](07-programming-with-js.md)
+- [Computer architecture and logic](06b-computer-architecture-and-logic.html)
 
+- [You need coffee for all this Java..Script](07-programming-with-js.html)
 </nav>
 
 ## Vocabulary
