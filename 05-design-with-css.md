@@ -28,7 +28,7 @@
 - **Selector** - indicate which element the rule applies to. The same rule can apply to more than one element if you separate the element names with commas.
 - **Property** - indicate the aspects of the element you want to change. For example, color, font, width, height and border. 
 - **Values** - specify the settings you want to use for the chosen properties. For example, if you want to specify a color property then the value is the color you want the text in these elements to be
-- **Curly braces** - 
+- **Curly braces** - Declaration block
 
 classes have periods .classname
 IDs have numbers #idname
