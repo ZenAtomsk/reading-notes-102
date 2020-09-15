@@ -1,22 +1,23 @@
 <nav>
 
-- [Growth Mindset](README.html)
+- [Growth Mindset](https://zenatomsk.github.io/reading-notes/)
 
-- [Learning Markdown](01-learning-markdown.html) 
+- [Learning Markdown](https://zenatomsk.github.io/reading-notes/01-learning-markdown.html) 
 
-- [The Coder's Computer](02-the-coders-computer.html)
+- [The Coder's Computer](https://zenatomsk.github.io/reading-notes/02-the-coders-computer.html)
 
-- [Terminal revision and the cloud....or the matrix](03-revisions-and-the-cloud.html)
+- [Terminal revision and the cloud....or the matrix](https://zenatomsk.github.io/reading-notes/03-revisions-and-the-cloud.html)
 
-- [Html-the structure](04-structure-with-html.html)
+- [Html-the structure](https://zenatomsk.github.io/reading-notes/04-structure-with-html.html)
 
-- [Where do you want it and what color?](05-design-with-css.html)
+- [Where do you want it and what color?](https://zenatomsk.github.io/reading-notes/05-design-with-css.html)
 
-- [Let's make it do stuff and things](06a-dynamic-with-javascript.html)
+- [Let's make it do stuff and things](https://zenatomsk.github.io/reading-notes/06a-dynamic-with-javascript.html)
 
-- [Computer architecture and logic](06b-computer-architecture-and-logic.html)
+- [Computer architecture and logic](https://zenatomsk.github.io/reading-notes/06b-computer-architecture-and-logic.html)
 
-- [You need coffee for all this Java..Script](07-programming-with-js.html)
+- [You need coffee for all this Java..Script](https://zenatomsk.github.io/reading-notes/07-programming-with-js.html)
+
 </nav>
 
 ## Vocabulary
