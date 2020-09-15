@@ -21,17 +21,25 @@
 # **Programming with JavaScript**
 
 ### **New Vocabulary**
-- Script
-- Programmatic problem solving
-- Expression
-- Operator
-- Function
-  - Declaration
-  - Call
-  - Parameters
-  - Arguments
-  - Return value
-- Refactoring
+- **/** - use "/" before a character to skip next character from string
+- **Script** - A script is a series of instructions that a computer can follow to achieve a goal.
+- **Programmatic problem solving** - An approach to problem solving to plan the approach to your problem
+- **Expression** - evaluates into (results in) a single value
+    1. expressions that just assign a value to a variable *(var color = 'beige'; the value of the color is now beige)*
+    2. expressions that use two or more values to return a single value *(var area = 3 * 2; the value of area is now 6)*
+- **Operator** - expressions rely on things called operators; they allow programmers to create a single value from one or more values.
+    - **assignment operators** - assign a value to a variable (color = 'beige'; the value of color is now beige)
+    - **arithmetic operators** - perform basic math (area = 3 * 2; the value of area is now 6)
+    - **string operators** - commbine two strings (greeting ='Hi ' +  'Molly'; the value of greeting is now Hi Molly.)
+    - **comparison operators** - compare two values and return true or false (buy = 3 > 5; the value of buy is false)
+    - **logical operators** - combine expressions and return true or false (buy = (5 > 3) && (2 < 4); the value of buy is now true.)
+- **Function** -
+  - **Declaration** -
+  - **Call** - 
+  - **Parameters** - 
+  - **Arguments** - 
+  - **Return value** - 
+- **Refactoring** - 
 
 ## **Learning to program with JavaScript involves:**
 1. Understanding some basic programming concepts and the terms that JavaScript programmers use to describe them.
@@ -100,3 +108,33 @@
     - **React**: User clicks on one of the buttons
     - **Program**: Find the relevant subset of images that should be shown
     - **Modify**: Shown the subset of images that use that tag
+
+### Script
+
+A script is a series of instructions that a computer can follow to achieve a goal. Comparable to recipes, handbooks and manuals
+
+To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
+1. define the goal
+2. design the script
+3. code each step
+
+(*As tempting as it is to start coding straight away, it pays to spend time designing your script before you start writing it.*)
+
+Consider how you might approach a different type of script.
+
+Sketch out the tasks in a flowchart
+
+- A scriptis a series of instructions that the computer can follow in order to achieve a goal.
+- Each time the script runs, it might only use a subset of all the instructions.
+- Computers approach tasks in a different way thatn humans, so your sintructions must let the computer solve the task programmatically
+- to approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help)
+
+### **Arithmetic operators**
+
+JavaScript contains the following mathematical operators, which you can use with numbers.
+
+Basic operators= addition, subtraction, division and multiplication.
+
+Other operators
+- increment ++ adds one to the current number
+- decrement 
