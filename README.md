@@ -27,3 +27,5 @@
 - [Computer architecture and logic](06b-computer-architecture-and-logic.md)
 
 - [You need coffee for all this Java..Script](07-programming-with-js.md)
+
+- [Answer how I want you to answer, or this loop will never close](08-operators-and-loops.md)

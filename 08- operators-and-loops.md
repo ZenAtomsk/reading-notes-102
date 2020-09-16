@@ -1,3 +1,14 @@
+- [Growth Mindset](https://zenatomsk.github.io/reading-notes/)
+- [Learning Markdown](https://zenatomsk.github.io/reading-notes/01-learning-markdown) 
+- [The Coder's Computer](https://zenatomsk.github.io/reading-notes/02-the-coders-computer)
+- [Terminal revision and the cloud....or the matrix](https://zenatomsk.github.io/reading-notes/03-revisions-and-the-cloud)
+- [Html-the structure](https://zenatomsk.github.io/reading-notes/04-structure-with-html)
+- [Where do you want it and what color?](https://zenatomsk.github.io/reading-notes/05-design-with-css)
+- [Let's make it do stuff and things](https://zenatomsk.github.io/reading-notes/06a-dynamic-with-javascript)
+- [Computer architecture and logic](https://zenatomsk.github.io/reading-notes/06b-computer-architecture-and-logic)
+- [You need coffee for all this Java..Script](https://zenatomsk.github.io/reading-notes/07-programming-with-js)
+- [Answer how I want you to answer, or this loop will never close](https:zenatomsk.github.io/reading-notes/08-operators-and-loops)
+
 ## **New Vocabulary**
 
 1. loop - Check a condition. If it returns true, a code block will run. Then the condition will be checked again and if it still returns true, the code block will run again. It repeats until the condition returns false. There are three common loop types

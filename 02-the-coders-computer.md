@@ -7,6 +7,7 @@
 - [Let's make it do stuff and things](https://zenatomsk.github.io/reading-notes/06a-dynamic-with-javascript)
 - [Computer architecture and logic](https://zenatomsk.github.io/reading-notes/06b-computer-architecture-and-logic)
 - [You need coffee for all this Java..Script](https://zenatomsk.github.io/reading-notes/07-programming-with-js)
+- [Answer how I want you to answer, or this loop will never close](https:zenatomsk.github.io/reading-notes/08-operators-and-loops)
 
 # reading notes	
 ## these are my reading notes.
