@@ -11,7 +11,7 @@
 
 # **Programming with JavaScript**
 
-### **New Vocabulary**
+### **New Vocabulary** pokemon.com
 - **/** - use "/" before a character to skip next character from string
 - **Script** - A script is a series of instructions that a computer can follow to achieve a goal.
 - **Programmatic problem solving** - An approach to problem solving to plan the approach to your problem
